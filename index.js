@@ -1,5 +1,3 @@
-// Queue list
-
 let queues = {};
 
 function take_queue(name, callback)
@@ -49,8 +47,6 @@ function free_queue(name)
 
 	delete queues[name];
 }
-
-// Exports
 
 module.exports =
 {
