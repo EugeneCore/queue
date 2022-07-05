@@ -1,4 +1,4 @@
-# Queue Controller
+# Queue
 
 A simple queue controller.
 
