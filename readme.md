@@ -1,6 +1,6 @@
 # Queue
 
-A simple queue controller.
+A simple queue controller for Node.js.
 
 ## How to use
 
