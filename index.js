@@ -2,8 +2,6 @@
 
 let queues = {};
 
-// Main
-
 function take_queue(name, callback)
 {
 	if (typeof callback != 'function')
